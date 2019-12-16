@@ -1,7 +1,7 @@
 # Parkinson Disease Detection using PET Images
 
 
-#Execution Flow
+# Execution Flow
 
 
 ## Dataset preparation 
