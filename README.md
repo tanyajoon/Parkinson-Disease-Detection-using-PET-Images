@@ -1,1 +1,1 @@
-# UAlberta-Multimedia-Master-Program---Parkinson-Disease-Detection-using-PET-Images
+# UAlberta Multimedia Master Program -Parkinson Disease Detection using PET Images
