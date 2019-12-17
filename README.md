@@ -23,3 +23,6 @@ After successful installation, execute the files using python3 and Jupyter Noteb
 
 Before executing the testing and training steps please refer to [installation](https://github.com/tanyajoon/UAlberta-Multimedia-Master-Program---Parkinson-Disease-Detection-using-PET-Images/blob/master/Installation.md) guide and install the required modules.
 The 3 models (SVM, RF, CNN ) can be executed using the files provided under the Models folder.
+
+## Demo Video:
+]Youtube Link] (https://youtu.be/-wREIi7myDw)
