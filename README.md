@@ -25,4 +25,4 @@ Before executing the testing and training steps please refer to [installation](h
 The 3 models (SVM, RF, CNN ) can be executed using the files provided under the Models folder.
 
 ## Demo Video:
-]Youtube Link] (https://youtu.be/-wREIi7myDw)
+[Youtube Link] (https://youtu.be/-wREIi7myDw)
